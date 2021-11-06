@@ -1,11 +1,11 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-- [x] They call me Ohad
-- [x] I'm a student at Sela College
+## My name is Ohad
+- [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group
 - [x] I'm junior DevOps engineer and junior Full Stack Developer
 - [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities
 - [x] I like to discover new technologies and work for projects which have scope for self learning and development
-
+- [x] Team player 
 ### Contact me by
 
 <p>
@@ -106,6 +106,19 @@
         </th>
     </tr>
 </table>
+
+### My github stats
+<p>
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ohadr98&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
+<p>
+
+   
+<p align="center">
+   
+### Visitor Counter
+   
+  <img src="https://profile-counter.glitch.me/Ohadr98/count.svg" />
+</p>     
 
 <!--
 **ohadr98/Ohadr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
