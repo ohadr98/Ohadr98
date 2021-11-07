@@ -4,9 +4,9 @@
 
 
 ## My name is Ohad
-- [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group <br/><br/>
-- [x] I'm junior DevOps engineer and junior Full Stack Developer <br/><br/>
-- [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities <br/><br/>
+- [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group 👨‍🎓 <br/><br/>
+- [x] I'm junior DevOps engineer and junior Full Stack Developer 🎓 <br/><br/>
+- [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities ⚡ <br/><br/>
 - [x] I like to discover new technologies and work for projects which have scope for self learning and development  👨‍💻 <br/><br/>
 - [x] Team player 👥 <br/><br/>
 ### Contact me by
