@@ -1,18 +1,20 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<br/>
+<img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
+
 
 ## My name is Ohad
-- [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group
-- [x] I'm junior DevOps engineer and junior Full Stack Developer
-- [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities
-- [x] I like to discover new technologies and work for projects which have scope for self learning and development
-- [x] Team player 
+- [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group <br/><br/>
+- [x] I'm junior DevOps engineer and junior Full Stack Developer <br/><br/>
+- [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities <br/><br/>
+- [x] I like to discover new technologies and work for projects which have scope for self learning and development  👨‍💻 <br/><br/>
+- [x] Team player 👥 <br/><br/>
 ### Contact me by
 
 <p>
-   <a href="https://www.linkedin.com/in/ohad-rahamim-0093321b8/">
-      <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" height="50"/>
-   </a>
-
+ 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-OhadRahamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohad-rahamim-0093321b8/)](https://www.linkedin.com/in/ohad-rahamim-0093321b8/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Ohadr98?label=follow&style=social)](https://github.com/Ohadr98)
 
 <h2 align="center">Skills:</h2>
 <table style="width:100%;margin-left:auto;margin-right:auto;" align="center">
@@ -111,6 +113,9 @@
 <p>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ohadr98&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
 <p>
+   
+### most Langs
+<img alt="ShahrNaveh's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ohadr98&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="renatts" />
 
    
 <p align="center">
