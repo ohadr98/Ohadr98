@@ -1,14 +1,16 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-<br/>
-<img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="350">
+<hr/>
 
-## My name is Ohad
+## My name is Ohad<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 - [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group 👨‍🎓 <br/><br/>
 - [x] I'm junior DevOps engineer and junior Full Stack Developer 🎓 <br/><br/>
 - [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities ⚡ <br/><br/>
 - [x] I like to discover new technologies and work for projects which have scope for self learning and development  👨‍💻 <br/><br/>
 - [x] Team player 👥 <br/><br/>
+
+
 ### Contact me by
 
 <p>
@@ -111,11 +113,11 @@
 
 ### My github stats
 <p>
-   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ohadr98&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ohadr98&&show_icons=true&theme=gotham" /></p>
 <p>
    
 ### most languages
-<img alt="ShahrNaveh's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ohadr98&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="renatts" />
+<img alt="ShahrNaveh's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ohadr98&show_icons=true&theme=gotham&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="Ohadr98" />
 
    
 <p align="center">
