@@ -25,13 +25,7 @@
         <th>
             <a href="https://www.w3schools.com/cs/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-            </a>
-            <a href="https://www.typescriptlang.org/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-            </a>            
+            </a>           
         </th>
     </tr>
     <tr>
@@ -45,10 +39,7 @@
             </a>
             <a href="https://angular.io">
                 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-            </a>
-            <a href="https://reactjs.org/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-            </a>                     
+            </a>                                 
             <a href="https://getbootstrap.com">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
             </a>
@@ -62,9 +53,6 @@
             </a>
             <a href="https://nodejs.org">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-            </a>
-            <a href="https://www.mongodb.com/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
             </a>
             <a href="https://www.microsoft.com/en-us/sql-server">
                 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
@@ -88,10 +76,7 @@
             </a>
             <a href="https://git-scm.com/">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-            </a>
-            <a href="https://www.linux.org/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-            </a>
+            </a>            
             <a href="https://www.vim.org/">
                 <img src="https://user-images.githubusercontent.com/83014719/139907222-4bc7f8eb-ba57-4cb7-8f77-99d486e95419.png" alt="vim" width="40" height="40" />
             </a>
